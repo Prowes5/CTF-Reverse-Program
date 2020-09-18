@@ -1,0 +1,2 @@
+key = 'adsfkndcls'
+cipher = 'killshadow'
